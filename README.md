@@ -1,4 +1,4 @@
-**Operator and consultant. I fix execution inside early to growth stage startups, and I build the tools for that work on Claude.**
+**Operator and consultant. I fix execution inside early to growth stage startups, and I build the tools that ease decision making**
 
 Eight years inside early to growth stage companies, where execution starts breaking as they scale. I go in, find the one problem underneath the ten, and fix it. The products below are what that work looks like once I turn it into software.
 
@@ -14,7 +14,7 @@ Eight years inside early to growth stage companies, where execution starts break
 - A team scaled from 7 to 22 at Revv Growth against 60% YoY growth
 - $1.02M to $2.6M GMV on managed accounts at Fashinza
 
-Each repo is a case study and architecture. The products are paid, so the questions, prompts, scoring, and data stay private.
+Each repo is a case study and architecture. The products are paid, so the data stay private.
 
 ### Reach me
 
