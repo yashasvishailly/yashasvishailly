@@ -4,7 +4,7 @@ Eight years inside early to growth stage companies, where execution starts break
 
 ### What I've shipped
 
-- **[One Fix](https://github.com/yashasvishailly/One-Fix).** A paid AI founder diagnostic. Ten questions in, a scored diagnosis out. Built on Claude and Cloudflare Workers. Live at [yashasvishailly.com/diagnose](https://yashasvishailly.com/diagnose).
+- **[One Fix](https://github.com/yashasvishailly/One-Fix).** A paid AI founder diagnostic. Ten questions in, a scored diagnosis out. Built with a Cloudflare Workers architecture. Live at [yashasvishailly.com/diagnose](https://yashasvishailly.com/diagnose).
 - **[One Hire](https://github.com/yashasvishailly/One-Hire).** An AI hiring tool that qualifies and classifies candidates against a role rubric, human gated.
 - **[Chose The One](https://github.com/yashasvishailly/Chose-The-One).** A behavioral matchmaking experiment, the first study under The One Labs. [Writeup](https://yashasvishailly.com/blog/the-one-experiment).
 
