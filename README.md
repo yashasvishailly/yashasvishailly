@@ -7,6 +7,11 @@ Eight years inside early to growth stage companies, where execution starts break
 - **[One Fix](https://github.com/yashasvishailly/One-Fix).** A paid AI founder diagnostic. Ten questions in, a scored diagnosis out. Built with a Cloudflare Workers architecture. Live at [yashasvishailly.com/diagnose](https://yashasvishailly.com/diagnose).
 - **[One Hire](https://github.com/yashasvishailly/One-Hire).** An AI hiring tool that qualifies and classifies candidates against a role rubric, human gated.
 - **[Chose The One](https://github.com/yashasvishailly/Chose-The-One).** A behavioral matchmaking experiment, the first study under The One Labs. [Writeup](https://yashasvishailly.com/blog/the-one-experiment).
+- **[Me, over the years](https://github.com/yashasvishailly/Me-over-the-years-case-study).** A private, offline Android memory album for an audience of one, built around returning to the same day across years.
+
+### What I'm building
+
+- **[Pocket Ledger](https://github.com/yashasvishailly/Pocket-Ledger).** A privacy-first Android personal finance app planned to consolidate spending across cards and savings accounts while keeping financial records and processing on the device.
 
 ### As an operator
 
@@ -14,7 +19,7 @@ Eight years inside early to growth stage companies, where execution starts break
 - A team scaled from 7 to 22 at Revv Growth against 60% YoY growth
 - $1.02M to $2.6M GMV on managed accounts at Fashinza
 
-Each repo is a case study and architecture. The products are paid, so the data stay private.
+Each linked repo is a public case study and architecture. Product source, proprietary logic, and personal data stay private.
 
 ### Reach me
 
