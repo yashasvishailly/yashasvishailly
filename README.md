@@ -11,7 +11,7 @@ Eight years inside early to growth stage companies, where execution starts break
 
 ### What I'm building
 
-- **[Pocket Ledger](https://github.com/yashasvishailly/Pocket-Ledger).** A privacy-first Android personal finance app planned to consolidate spending across cards and savings accounts while keeping financial records and processing on the device.
+- **[Pocket Ledger](https://github.com/yashasvishailly/Pocket-Ledger).** A privacy-first Android personal finance app that brings spending across cards and savings accounts into one ledger while keeping financial records and processing on the device. A private on-device prototype is in progress at v0.3.6.
 
 ### As an operator
 
