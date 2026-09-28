@@ -8,6 +8,9 @@ Eight years inside early to growth stage companies, where execution starts break
 - **[One Hire](https://github.com/yashasvishailly/One-Hire).** An AI hiring tool that qualifies and classifies candidates against a role rubric, human gated.
 - **[Chose The One](https://github.com/yashasvishailly/Chose-The-One).** A behavioral matchmaking experiment, the first study under The One Labs. [Writeup](https://yashasvishailly.com/blog/the-one-experiment).
 - **[Me, over the years](https://github.com/yashasvishailly/Me-over-the-years-case-study).** A private, offline Android memory album for an audience of one, built around returning to the same day across years.
+- **[One Job](https://github.com/yashasvishailly/One-Job).** A job-search operating system for non-linear operators. This repo is a public demo only, not the skill package. Live at [yashasvishailly.com/theone-jobsearch](https://yashasvishailly.com/theone-jobsearch/).
+- **[One Look](https://github.com/yashasvishailly/the-one-look).** A free website first-impression scan. This repo is a frontend recreation of the live tool. Live at [yashasvishailly.com/one-look](https://yashasvishailly.com/one-look/).
+- **[job-search-writing-rules](https://github.com/yashasvishailly/job-search-writing-rules).** A free Claude skill, the writing half of The One Job. A deny list for cold DMs, cover letters, application answers, and follow-ups.
 
 ### What I'm building
 
@@ -19,7 +22,7 @@ Eight years inside early to growth stage companies, where execution starts break
 - A team scaled from 7 to 22 at Revv Growth against 60% YoY growth
 - $1.02M to $2.6M GMV on managed accounts at Fashinza
 
-Each linked repo is a public case study and architecture. Product source, proprietary logic, and personal data stay private.
+Public repos here are case studies, demos, or the free writing skill. Paid product code, proprietary logic, and personal data stay private.
 
 ### Reach me
 
