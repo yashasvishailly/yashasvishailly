@@ -11,6 +11,7 @@ Eight years inside early to growth stage companies, where execution starts break
 - **[One Job](https://github.com/yashasvishailly/One-Job).** A job-search operating system for non-linear operators. This repo is a public demo only, not the skill package. Live at [yashasvishailly.com/theone-jobsearch](https://yashasvishailly.com/theone-jobsearch/).
 - **[One Look](https://github.com/yashasvishailly/the-one-look).** A free website first-impression scan. This repo is a frontend recreation of the live tool. Live at [yashasvishailly.com/one-look](https://yashasvishailly.com/one-look/).
 - **[job-search-writing-rules](https://github.com/yashasvishailly/job-search-writing-rules).** A free Claude skill, the writing half of The One Job. A deny list for cold DMs, cover letters, application answers, and follow-ups.
+- **[Today](https://github.com/yashasvishailly/Today-app-case-study).** A private, on-device Android accountability app. The launcher name is Today, and the in-app title is One day at a time. This repo is the public case study only, with no application source.
 
 ### What I'm building
 
