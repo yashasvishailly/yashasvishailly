@@ -4,16 +4,23 @@ Eight years inside early to growth stage companies, where execution starts break
 
 ### What I've shipped
 
+#### One Fix
+
+- **[One Fix](https://github.com/yashasvishailly/One-Fix).** A paid AI founder diagnostic. Ten questions in, a scored diagnosis out. Built with a Cloudflare Workers architecture. Live at [yashasvishailly.com/diagnose](https://yashasvishailly.com/diagnose).
+
 #### Android apps
 
 - **[Pocket Ledger](https://github.com/yashasvishailly/Pocket-Ledger).** A privacy-first Android personal finance app that brings spending across cards and savings accounts into one ledger while keeping financial records and processing on the device. A private on-device prototype is in progress at v0.3.6.
 - **[Me, over the years](https://github.com/yashasvishailly/Me-over-the-years-case-study).** A private, offline Android memory album for an audience of one, built around returning to the same day across years.
 - **[Today](https://github.com/yashasvishailly/Today-app-case-study).** A private, on-device Android accountability app. The launcher name is Today, and the in-app title is One day at a time. This repo is the public case study only, with no application source.
 
+#### The Playbook
+
+- **[The Playbook](https://yashasvishailly.com/kits/).** Operating playbooks for founders.
+
 #### Website & Labs
 
 - **[One Look](https://github.com/yashasvishailly/the-one-look).** A free website first-impression scan. This repo is a frontend recreation of the live tool. Live at [yashasvishailly.com/one-look](https://yashasvishailly.com/one-look/).
-- **[One Fix](https://github.com/yashasvishailly/One-Fix).** A paid AI founder diagnostic. Ten questions in, a scored diagnosis out. Built with a Cloudflare Workers architecture. Live at [yashasvishailly.com/diagnose](https://yashasvishailly.com/diagnose).
 - **[One Job](https://github.com/yashasvishailly/One-Job).** A job-search operating system for non-linear operators. This repo is a public demo only, not the skill package. Live at [yashasvishailly.com/theone-jobsearch](https://yashasvishailly.com/theone-jobsearch/).
 - **[job-search-writing-rules](https://github.com/yashasvishailly/job-search-writing-rules).** A free Claude skill, the writing half of The One Job. A deny list for cold DMs, cover letters, application answers, and follow-ups.
 - **[One Hire](https://github.com/yashasvishailly/One-Hire).** An AI hiring tool that qualifies and classifies candidates against a role rubric, human gated.
