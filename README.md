@@ -37,3 +37,12 @@ Public repos here are case studies, demos, or the free writing skill. Paid produ
 ### Reach me
 
 [yashasvishailly.com](https://yashasvishailly.com) · [LinkedIn](https://www.linkedin.com/in/yashasvishailly) · letsbuild@yashasvishailly.com
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img alt="GitHub activity stats" src="./profile/stats.svg">
+</picture>
+
+![Profile views](https://komarev.com/ghpvc/?username=yashasvishailly&color=555555&style=flat&label=profile+views)
