@@ -8,6 +8,7 @@ Eight years inside early to growth stage companies, where execution starts break
 
 - **[One Fix](https://github.com/yashasvishailly/One-Fix).** A paid AI founder diagnostic. Ten questions in, a scored diagnosis out. Built with a Cloudflare Workers architecture. Live at [yashasvishailly.com/diagnose](https://yashasvishailly.com/diagnose).
 - **[One Look](https://github.com/yashasvishailly/the-one-look).** A free website first-impression scan. This repo is a frontend recreation of the live tool. Live at [yashasvishailly.com/one-look](https://yashasvishailly.com/one-look/).
+- **[One Card](https://yashasvishailly.com/one-card/).** A free QR contact card with a live phone preview. Share your name, number and links in one scan, or download a contact file. No app or account needed.
 - **[One Job](https://github.com/yashasvishailly/One-Job).** A job-search operating system for non-linear operators. This repo is a public demo only, not the skill package. Live at [yashasvishailly.com/theone-jobsearch](https://yashasvishailly.com/theone-jobsearch/).
 - **[job-search-writing-rules](https://github.com/yashasvishailly/job-search-writing-rules).** A free Claude skill, the writing half of The One Job. A deny list for cold DMs, cover letters, application answers, and follow-ups.
 - **[One Hire](https://github.com/yashasvishailly/One-Hire).** An AI hiring tool that qualifies and classifies candidates against a role rubric, human gated.
