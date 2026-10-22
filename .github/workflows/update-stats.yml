@@ -35,5 +35,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update profile stats cards" || exit 0
+          if git diff --cached --quiet; then
+            exit 0
+          else
+            diff_status=$?
+            if [ "$diff_status" -ne 1 ]; then exit "$diff_status"; fi
+          fi
+          git commit -m "Update profile stats cards"
           git push
