@@ -26,7 +26,7 @@ Eight years inside early to growth stage companies, where execution starts break
 
 #### Matchmaking experiment
 
-- **[Chose The One](https://github.com/yashasvishailly/Chose-The-One).** Already closed. A behavioral matchmaking experiment, the first study under The One Labs. [Writeup](https://yashasvishailly.com/blog/the-one-experiment).
+- **[Chose The One](https://github.com/yashasvishailly/Chose-The-One).** Already closed. A behavioral matchmaking experiment. [Writeup](https://yashasvishailly.com/blog/the-one-experiment).
 
 ### As an operator
 
